@@ -1,0 +1,74 @@
+2013-02-25T20:17:14 (7957) opening storage '1' using FileStorage
+2013-02-25T20:17:14 StorageServer created RW with storages: 1:RW:../data/MetropsData.fs
+2013-02-25T20:17:14 (7957) listening on ('localhost', 8090)
+2013-02-25T20:17:14 listening on ('localhost', 8091)
+2013-02-25T20:17:18 (7957) terminated by SIGINT
+2013-02-25T20:17:18 closing storage '1'
+2013-02-25T20:35:21 (8657) opening storage '1' using FileStorage
+2013-02-25T20:35:21 Ignoring index for /Users/magnus/Projects/Envs/metricops/src/opt/metrops/data/MetropsData.fs
+2013-02-25T20:35:21 StorageServer created RW with storages: 1:RW:data/MetropsData.fs
+2013-02-25T20:35:21 (8657) listening on ('localhost', 8090)
+2013-02-25T20:35:21 listening on ('localhost', 8091)
+2013-02-25T20:35:22 (8657) terminated by SIGINT
+2013-02-25T20:35:22 closing storage '1'
+2013-02-25T20:35:27 (8670) opening storage '1' using FileStorage
+2013-02-25T20:35:27 Ignoring index for /Users/magnus/Projects/Envs/metricops/src/opt/metrops/data/MetropsData.fs
+2013-02-25T20:35:27 StorageServer created RW with storages: 1:RW:data/MetropsData.fs
+2013-02-25T20:35:27 (8670) listening on ('localhost', 8090)
+2013-02-25T20:35:27 listening on ('localhost', 8091)
+2013-02-25T20:36:55 new connection ('127.0.0.1', 59729): <ManagedServerConnection ('127.0.0.1', 59729)>
+2013-02-25T20:36:55 new connection ('127.0.0.1', 59730): <ManagedServerConnection ('127.0.0.1', 59730)>
+2013-02-25T20:36:55 (127.0.0.1:59729) received handshake 'Z3101'
+2013-02-25T20:36:55 (unconnected) disconnected
+2013-02-25T20:36:58 (127.0.0.1:59729) disconnected
+2013-02-25T21:28:27 new connection ('127.0.0.1', 59928): <ManagedServerConnection ('127.0.0.1', 59928)>
+2013-02-25T21:28:27 (unconnected) disconnected
+2013-02-25T21:28:30 new connection ('127.0.0.1', 59929): <ManagedServerConnection ('127.0.0.1', 59929)>
+2013-02-25T21:28:30 (unconnected) disconnected
+2013-02-25T21:28:32 (unconnected) disconnected
+2013-02-25T21:28:32 new connection ('127.0.0.1', 59930): <ManagedServerConnection ('127.0.0.1', 59930)>
+2013-02-25T21:28:35 new connection ('127.0.0.1', 59931): <ManagedServerConnection ('127.0.0.1', 59931)>
+2013-02-25T21:28:35 (unconnected) disconnected
+2013-02-25T21:29:40 new connection ('127.0.0.1', 59939): <ManagedServerConnection ('127.0.0.1', 59939)>
+2013-02-25T21:29:40 new connection ('127.0.0.1', 59940): <ManagedServerConnection ('127.0.0.1', 59940)>
+2013-02-25T21:29:40 (127.0.0.1:59939) received handshake 'Z3101'
+2013-02-25T21:29:40 (unconnected) disconnected
+2013-02-25T21:29:40 new connection ('127.0.0.1', 59943): <ManagedServerConnection ('127.0.0.1', 59943)>
+2013-02-25T21:29:40 (unconnected) disconnected
+2013-02-25T21:29:42 new connection ('127.0.0.1', 59944): <ManagedServerConnection ('127.0.0.1', 59944)>
+2013-02-25T21:29:42 (unconnected) disconnected
+2013-02-25T21:29:44 new connection ('127.0.0.1', 59945): <ManagedServerConnection ('127.0.0.1', 59945)>
+2013-02-25T21:29:44 (unconnected) disconnected
+2013-02-25T21:29:47 (unconnected) disconnected
+2013-02-25T21:29:47 new connection ('127.0.0.1', 59946): <ManagedServerConnection ('127.0.0.1', 59946)>
+2013-02-25T21:30:22 new connection ('127.0.0.1', 59947): <ManagedServerConnection ('127.0.0.1', 59947)>
+2013-02-25T21:30:22 (unconnected) disconnected
+2013-02-25T21:30:45 (127.0.0.1:59939) disconnected
+2013-02-25T21:30:59 new connection ('127.0.0.1', 59954): <ManagedServerConnection ('127.0.0.1', 59954)>
+2013-02-25T21:30:59 new connection ('127.0.0.1', 59955): <ManagedServerConnection ('127.0.0.1', 59955)>
+2013-02-25T21:30:59 (127.0.0.1:59954) received handshake 'Z3101'
+2013-02-25T21:31:00 new connection ('127.0.0.1', 59958): <ManagedServerConnection ('127.0.0.1', 59958)>
+2013-02-25T21:31:00 (unconnected) disconnected
+2013-02-25T21:31:00 (unconnected) disconnected
+2013-02-25T21:31:01 new connection ('127.0.0.1', 59959): <ManagedServerConnection ('127.0.0.1', 59959)>
+2013-02-25T21:31:01 (unconnected) disconnected
+2013-02-25T21:31:04 new connection ('127.0.0.1', 59960): <ManagedServerConnection ('127.0.0.1', 59960)>
+2013-02-25T21:31:04 (unconnected) disconnected
+2013-02-25T21:31:07 new connection ('127.0.0.1', 59961): <ManagedServerConnection ('127.0.0.1', 59961)>
+2013-02-25T21:31:07 (unconnected) disconnected
+2013-02-25T21:32:39 (127.0.0.1:59954) disconnected
+2013-02-25T21:33:16 new connection ('127.0.0.1', 59968): <ManagedServerConnection ('127.0.0.1', 59968)>
+2013-02-25T21:33:16 new connection ('127.0.0.1', 59969): <ManagedServerConnection ('127.0.0.1', 59969)>
+2013-02-25T21:33:16 (127.0.0.1:59968) received handshake 'Z3101'
+2013-02-25T21:33:16 new connection ('127.0.0.1', 59972): <ManagedServerConnection ('127.0.0.1', 59972)>
+2013-02-25T21:33:16 (unconnected) disconnected
+2013-02-25T21:33:16 (unconnected) disconnected
+2013-02-25T21:33:17 new connection ('127.0.0.1', 59973): <ManagedServerConnection ('127.0.0.1', 59973)>
+2013-02-25T21:33:17 (unconnected) disconnected
+2013-02-25T21:33:19 new connection ('127.0.0.1', 59974): <ManagedServerConnection ('127.0.0.1', 59974)>
+2013-02-25T21:33:19 (unconnected) disconnected
+2013-02-25T21:33:23 new connection ('127.0.0.1', 59975): <ManagedServerConnection ('127.0.0.1', 59975)>
+2013-02-25T21:33:23 (unconnected) disconnected
+2013-02-25T21:34:44 (127.0.0.1:59968) disconnected
+2013-02-25T21:34:54 new connection ('127.0.0.1', 59977): <ManagedServerConnection ('127.0.0.1', 59977)>
+2013-02-25T21:34:54 (unconnected) disconnected

@@ -1,0 +1,2 @@
+#!/bin/bash
+runzeo -C conf/metrops-zeo.conf
