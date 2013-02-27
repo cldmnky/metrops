@@ -72,3 +72,498 @@
 2013-02-25T21:34:44 (127.0.0.1:59968) disconnected
 2013-02-25T21:34:54 new connection ('127.0.0.1', 59977): <ManagedServerConnection ('127.0.0.1', 59977)>
 2013-02-25T21:34:54 (unconnected) disconnected
+2013-02-26T21:32:43 (13565) opening storage '1' using FileStorage
+2013-02-26T21:32:43 Ignoring index for /Users/magnus/Projects/Envs/metricops/src/opt/metrops/data/MetropsData.fs
+2013-02-26T21:32:43 StorageServer created RW with storages: 1:RW:data/MetropsData.fs
+2013-02-26T21:32:43 (13565) listening on ('localhost', 8090)
+2013-02-26T21:32:43 listening on ('localhost', 8091)
+2013-02-26T21:36:13 new connection ('127.0.0.1', 50481): <ManagedServerConnection ('127.0.0.1', 50481)>
+2013-02-26T21:36:13 (127.0.0.1:50481) received handshake 'Z3101'
+2013-02-26T21:36:13 new connection ('127.0.0.1', 50482): <ManagedServerConnection ('127.0.0.1', 50482)>
+2013-02-26T21:36:13 (unconnected) disconnected
+2013-02-26T21:38:50 (127.0.0.1:50481) disconnected
+2013-02-26T21:38:58 new connection ('127.0.0.1', 50506): <ManagedServerConnection ('127.0.0.1', 50506)>
+2013-02-26T21:38:58 (127.0.0.1:50506) received handshake 'Z3101'
+2013-02-26T21:38:58 new connection ('127.0.0.1', 50507): <ManagedServerConnection ('127.0.0.1', 50507)>
+2013-02-26T21:38:58 (unconnected) disconnected
+2013-02-26T21:56:34 (127.0.0.1:50506) disconnected
+2013-02-26T21:56:40 new connection ('127.0.0.1', 50575): <ManagedServerConnection ('127.0.0.1', 50575)>
+2013-02-26T21:56:40 new connection ('127.0.0.1', 50576): <ManagedServerConnection ('127.0.0.1', 50576)>
+2013-02-26T21:56:40 (127.0.0.1:50576) received handshake 'Z3101'
+2013-02-26T21:56:40 (unconnected) disconnected
+2013-02-26T21:56:55 (127.0.0.1:50576) disconnected
+2013-02-26T21:57:10 new connection ('127.0.0.1', 50593): <ManagedServerConnection ('127.0.0.1', 50593)>
+2013-02-26T21:57:10 new connection ('127.0.0.1', 50594): <ManagedServerConnection ('127.0.0.1', 50594)>
+2013-02-26T21:57:10 (127.0.0.1:50594) received handshake 'Z3101'
+2013-02-26T21:57:10 (unconnected) disconnected
+2013-02-26T21:57:30 (127.0.0.1:50594) disconnected
+2013-02-26T21:57:35 new connection ('127.0.0.1', 50603): <ManagedServerConnection ('127.0.0.1', 50603)>
+2013-02-26T21:57:35 new connection ('127.0.0.1', 50604): <ManagedServerConnection ('127.0.0.1', 50604)>
+2013-02-26T21:57:35 (127.0.0.1:50603) received handshake 'Z3101'
+2013-02-26T21:57:35 (unconnected) disconnected
+2013-02-26T22:05:22 (127.0.0.1:50603) disconnected
+2013-02-26T22:14:08 new connection ('127.0.0.1', 50644): <ManagedServerConnection ('127.0.0.1', 50644)>
+2013-02-26T22:14:08 new connection ('127.0.0.1', 50645): <ManagedServerConnection ('127.0.0.1', 50645)>
+2013-02-26T22:14:08 (127.0.0.1:50645) received handshake 'Z3101'
+2013-02-26T22:14:08 (unconnected) disconnected
+2013-02-26T22:16:55 (127.0.0.1:50645) disconnected
+2013-02-26T22:17:00 new connection ('127.0.0.1', 50687): <ManagedServerConnection ('127.0.0.1', 50687)>
+2013-02-26T22:17:00 new connection ('127.0.0.1', 50688): <ManagedServerConnection ('127.0.0.1', 50688)>
+2013-02-26T22:17:00 (127.0.0.1:50687) received handshake 'Z3101'
+2013-02-26T22:17:00 (unconnected) disconnected
+2013-02-26T22:18:10 (127.0.0.1:50687) disconnected
+2013-02-26T22:18:14 new connection ('127.0.0.1', 50760): <ManagedServerConnection ('127.0.0.1', 50760)>
+2013-02-26T22:18:14 (127.0.0.1:50760) received handshake 'Z3101'
+2013-02-26T22:18:14 new connection ('127.0.0.1', 50761): <ManagedServerConnection ('127.0.0.1', 50761)>
+2013-02-26T22:18:14 (unconnected) disconnected
+2013-02-26T22:18:56 (127.0.0.1:50760) disconnected
+2013-02-26T22:18:59 new connection ('127.0.0.1', 50778): <ManagedServerConnection ('127.0.0.1', 50778)>
+2013-02-26T22:18:59 new connection ('127.0.0.1', 50779): <ManagedServerConnection ('127.0.0.1', 50779)>
+2013-02-26T22:18:59 (127.0.0.1:50779) received handshake 'Z3101'
+2013-02-26T22:18:59 (unconnected) disconnected
+2013-02-26T22:21:53 (127.0.0.1:50779) disconnected
+2013-02-26T22:21:58 new connection ('127.0.0.1', 50798): <ManagedServerConnection ('127.0.0.1', 50798)>
+2013-02-26T22:21:58 new connection ('127.0.0.1', 50799): <ManagedServerConnection ('127.0.0.1', 50799)>
+2013-02-26T22:21:58 (127.0.0.1:50799) received handshake 'Z3101'
+2013-02-26T22:21:58 (unconnected) disconnected
+2013-02-26T22:23:26 (127.0.0.1:50799) disconnected
+2013-02-26T22:24:11 new connection ('127.0.0.1', 50818): <ManagedServerConnection ('127.0.0.1', 50818)>
+2013-02-26T22:24:11 (127.0.0.1:50818) received handshake 'Z3101'
+2013-02-26T22:24:11 new connection ('127.0.0.1', 50819): <ManagedServerConnection ('127.0.0.1', 50819)>
+2013-02-26T22:24:11 (unconnected) disconnected
+2013-02-26T22:25:06 (127.0.0.1:50818) disconnected
+2013-02-26T22:25:15 new connection ('127.0.0.1', 50832): <ManagedServerConnection ('127.0.0.1', 50832)>
+2013-02-26T22:25:15 new connection ('127.0.0.1', 50833): <ManagedServerConnection ('127.0.0.1', 50833)>
+2013-02-26T22:25:15 (127.0.0.1:50832) received handshake 'Z3101'
+2013-02-26T22:25:15 (unconnected) disconnected
+2013-02-26T22:25:51 (127.0.0.1:50832) disconnected
+2013-02-26T22:25:57 new connection ('127.0.0.1', 50860): <ManagedServerConnection ('127.0.0.1', 50860)>
+2013-02-26T22:25:57 new connection ('127.0.0.1', 50861): <ManagedServerConnection ('127.0.0.1', 50861)>
+2013-02-26T22:25:57 (127.0.0.1:50861) received handshake 'Z3101'
+2013-02-26T22:25:57 (unconnected) disconnected
+2013-02-26T22:27:37 (127.0.0.1:50861) disconnected
+2013-02-26T22:27:44 new connection ('127.0.0.1', 50873): <ManagedServerConnection ('127.0.0.1', 50873)>
+2013-02-26T22:27:44 new connection ('127.0.0.1', 50874): <ManagedServerConnection ('127.0.0.1', 50874)>
+2013-02-26T22:27:44 (127.0.0.1:50874) received handshake 'Z3101'
+2013-02-26T22:27:44 (unconnected) disconnected
+2013-02-26T22:33:45 (127.0.0.1:50874) disconnected
+2013-02-26T22:34:13 new connection ('127.0.0.1', 50958): <ManagedServerConnection ('127.0.0.1', 50958)>
+2013-02-26T22:34:13 new connection ('127.0.0.1', 50959): <ManagedServerConnection ('127.0.0.1', 50959)>
+2013-02-26T22:34:13 (127.0.0.1:50959) received handshake 'Z3101'
+2013-02-26T22:34:13 (unconnected) disconnected
+2013-02-26T22:37:56 (127.0.0.1:50959) disconnected
+2013-02-26T22:38:03 new connection ('127.0.0.1', 50976): <ManagedServerConnection ('127.0.0.1', 50976)>
+2013-02-26T22:38:03 new connection ('127.0.0.1', 50977): <ManagedServerConnection ('127.0.0.1', 50977)>
+2013-02-26T22:38:03 (127.0.0.1:50977) received handshake 'Z3101'
+2013-02-26T22:38:04 (unconnected) disconnected
+2013-02-26T22:38:16 (127.0.0.1:50977) disconnected
+2013-02-26T22:38:17 new connection ('127.0.0.1', 51006): <ManagedServerConnection ('127.0.0.1', 51006)>
+2013-02-26T22:38:17 new connection ('127.0.0.1', 51007): <ManagedServerConnection ('127.0.0.1', 51007)>
+2013-02-26T22:38:17 (127.0.0.1:51006) received handshake 'Z3101'
+2013-02-26T22:38:17 (unconnected) disconnected
+2013-02-26T22:38:47 (127.0.0.1:51006) disconnected
+2013-02-26T22:38:49 new connection ('127.0.0.1', 51051): <ManagedServerConnection ('127.0.0.1', 51051)>
+2013-02-26T22:38:49 new connection ('127.0.0.1', 51052): <ManagedServerConnection ('127.0.0.1', 51052)>
+2013-02-26T22:38:49 (127.0.0.1:51052) received handshake 'Z3101'
+2013-02-26T22:38:50 (unconnected) disconnected
+2013-02-26T22:48:43 (127.0.0.1:51052) disconnected
+2013-02-26T22:49:07 new connection ('127.0.0.1', 51153): <ManagedServerConnection ('127.0.0.1', 51153)>
+2013-02-26T22:49:07 new connection ('127.0.0.1', 51154): <ManagedServerConnection ('127.0.0.1', 51154)>
+2013-02-26T22:49:07 (127.0.0.1:51154) received handshake 'Z3101'
+2013-02-26T22:49:07 (unconnected) disconnected
+2013-02-26T22:54:09 (127.0.0.1:51154) disconnected
+2013-02-26T22:54:36 new connection ('127.0.0.1', 51188): <ManagedServerConnection ('127.0.0.1', 51188)>
+2013-02-26T22:54:36 new connection ('127.0.0.1', 51189): <ManagedServerConnection ('127.0.0.1', 51189)>
+2013-02-26T22:54:36 (127.0.0.1:51188) received handshake 'Z3101'
+2013-02-26T22:54:37 (unconnected) disconnected
+2013-02-27T08:23:39 (127.0.0.1:51188) disconnected
+2013-02-27T08:25:34 new connection ('127.0.0.1', 51438): <ManagedServerConnection ('127.0.0.1', 51438)>
+2013-02-27T08:25:34 (127.0.0.1:51438) received handshake 'Z3101'
+2013-02-27T08:25:34 new connection ('127.0.0.1', 51439): <ManagedServerConnection ('127.0.0.1', 51439)>
+2013-02-27T08:25:34 (unconnected) disconnected
+2013-02-27T09:05:57 (127.0.0.1:51438) disconnected
+2013-02-27T12:56:23 new connection ('127.0.0.1', 52964): <ManagedServerConnection ('127.0.0.1', 52964)>
+2013-02-27T12:56:23 (127.0.0.1:52964) received handshake 'Z3101'
+2013-02-27T12:56:23 new connection ('127.0.0.1', 52965): <ManagedServerConnection ('127.0.0.1', 52965)>
+2013-02-27T12:56:23 (unconnected) disconnected
+2013-02-27T13:01:07 (127.0.0.1:52964) disconnected
+2013-02-27T13:01:38 new connection ('127.0.0.1', 53033): <ManagedServerConnection ('127.0.0.1', 53033)>
+2013-02-27T13:01:38 new connection ('127.0.0.1', 53034): <ManagedServerConnection ('127.0.0.1', 53034)>
+2013-02-27T13:01:38 (127.0.0.1:53034) received handshake 'Z3101'
+2013-02-27T13:01:38 (unconnected) disconnected
+2013-02-27T13:02:02 (127.0.0.1:53034) disconnected
+2013-02-27T13:02:57 new connection ('127.0.0.1', 53046): <ManagedServerConnection ('127.0.0.1', 53046)>
+2013-02-27T13:02:57 (127.0.0.1:53046) received handshake 'Z3101'
+2013-02-27T13:02:57 new connection ('127.0.0.1', 53047): <ManagedServerConnection ('127.0.0.1', 53047)>
+2013-02-27T13:02:57 (unconnected) disconnected
+2013-02-27T13:04:45 (127.0.0.1:53046) disconnected
+2013-02-27T13:05:51 new connection ('127.0.0.1', 53072): <ManagedServerConnection ('127.0.0.1', 53072)>
+2013-02-27T13:05:51 new connection ('127.0.0.1', 53073): <ManagedServerConnection ('127.0.0.1', 53073)>
+2013-02-27T13:05:51 (127.0.0.1:53073) received handshake 'Z3101'
+2013-02-27T13:05:51 (unconnected) disconnected
+2013-02-27T13:06:57 (127.0.0.1:53073) disconnected
+2013-02-27T13:07:01 new connection ('127.0.0.1', 53079): <ManagedServerConnection ('127.0.0.1', 53079)>
+2013-02-27T13:07:01 new connection ('127.0.0.1', 53080): <ManagedServerConnection ('127.0.0.1', 53080)>
+2013-02-27T13:07:01 (127.0.0.1:53079) received handshake 'Z3101'
+2013-02-27T13:07:02 (unconnected) disconnected
+2013-02-27T13:07:38 (127.0.0.1:53079) disconnected
+2013-02-27T13:07:41 new connection ('127.0.0.1', 53084): <ManagedServerConnection ('127.0.0.1', 53084)>
+2013-02-27T13:07:41 new connection ('127.0.0.1', 53085): <ManagedServerConnection ('127.0.0.1', 53085)>
+2013-02-27T13:07:41 (127.0.0.1:53084) received handshake 'Z3101'
+2013-02-27T13:07:41 (unconnected) disconnected
+2013-02-27T13:09:17 (127.0.0.1:53084) disconnected
+2013-02-27T13:09:21 new connection ('127.0.0.1', 53093): <ManagedServerConnection ('127.0.0.1', 53093)>
+2013-02-27T13:09:21 new connection ('127.0.0.1', 53094): <ManagedServerConnection ('127.0.0.1', 53094)>
+2013-02-27T13:09:21 (127.0.0.1:53093) received handshake 'Z3101'
+2013-02-27T13:09:21 (unconnected) disconnected
+2013-02-27T13:20:36 (127.0.0.1:53093) disconnected
+2013-02-27T13:20:41 new connection ('127.0.0.1', 53245): <ManagedServerConnection ('127.0.0.1', 53245)>
+2013-02-27T13:20:41 new connection ('127.0.0.1', 53246): <ManagedServerConnection ('127.0.0.1', 53246)>
+2013-02-27T13:20:41 (127.0.0.1:53246) received handshake 'Z3101'
+2013-02-27T13:20:42 (unconnected) disconnected
+2013-02-27T13:23:50 (127.0.0.1:53246) disconnected
+2013-02-27T13:23:54 new connection ('127.0.0.1', 53293): <ManagedServerConnection ('127.0.0.1', 53293)>
+2013-02-27T13:23:54 new connection ('127.0.0.1', 53294): <ManagedServerConnection ('127.0.0.1', 53294)>
+2013-02-27T13:23:54 (127.0.0.1:53294) received handshake 'Z3101'
+2013-02-27T13:23:54 (unconnected) disconnected
+2013-02-27T13:26:21 (127.0.0.1:53294) disconnected
+2013-02-27T13:26:25 new connection ('127.0.0.1', 53299): <ManagedServerConnection ('127.0.0.1', 53299)>
+2013-02-27T13:26:25 new connection ('127.0.0.1', 53300): <ManagedServerConnection ('127.0.0.1', 53300)>
+2013-02-27T13:26:25 (127.0.0.1:53300) received handshake 'Z3101'
+2013-02-27T13:26:25 (unconnected) disconnected
+2013-02-27T13:27:33 (127.0.0.1:53300) disconnected
+2013-02-27T13:27:37 new connection ('127.0.0.1', 53308): <ManagedServerConnection ('127.0.0.1', 53308)>
+2013-02-27T13:27:37 new connection ('127.0.0.1', 53309): <ManagedServerConnection ('127.0.0.1', 53309)>
+2013-02-27T13:27:37 (127.0.0.1:53309) received handshake 'Z3101'
+2013-02-27T13:27:37 (unconnected) disconnected
+2013-02-27T13:29:03 (127.0.0.1:53309) disconnected
+2013-02-27T13:29:06 new connection ('127.0.0.1', 53316): <ManagedServerConnection ('127.0.0.1', 53316)>
+2013-02-27T13:29:06 new connection ('127.0.0.1', 53317): <ManagedServerConnection ('127.0.0.1', 53317)>
+2013-02-27T13:29:06 (127.0.0.1:53317) received handshake 'Z3101'
+2013-02-27T13:29:07 (unconnected) disconnected
+2013-02-27T13:29:35 (127.0.0.1:53317) disconnected
+2013-02-27T13:29:38 new connection ('127.0.0.1', 53322): <ManagedServerConnection ('127.0.0.1', 53322)>
+2013-02-27T13:29:38 new connection ('127.0.0.1', 53323): <ManagedServerConnection ('127.0.0.1', 53323)>
+2013-02-27T13:29:38 (127.0.0.1:53323) received handshake 'Z3101'
+2013-02-27T13:29:38 (unconnected) disconnected
+2013-02-27T13:30:31 (127.0.0.1:53323) disconnected
+2013-02-27T13:30:35 new connection ('127.0.0.1', 53327): <ManagedServerConnection ('127.0.0.1', 53327)>
+2013-02-27T13:30:35 new connection ('127.0.0.1', 53328): <ManagedServerConnection ('127.0.0.1', 53328)>
+2013-02-27T13:30:35 (127.0.0.1:53328) received handshake 'Z3101'
+2013-02-27T13:30:35 (unconnected) disconnected
+2013-02-27T13:31:49 (127.0.0.1:53328) disconnected
+2013-02-27T13:31:56 new connection ('127.0.0.1', 53337): <ManagedServerConnection ('127.0.0.1', 53337)>
+2013-02-27T13:31:56 new connection ('127.0.0.1', 53338): <ManagedServerConnection ('127.0.0.1', 53338)>
+2013-02-27T13:31:56 (127.0.0.1:53338) received handshake 'Z3101'
+2013-02-27T13:31:57 (unconnected) disconnected
+2013-02-27T13:32:33 (127.0.0.1:53338) disconnected
+2013-02-27T13:32:36 new connection ('127.0.0.1', 53342): <ManagedServerConnection ('127.0.0.1', 53342)>
+2013-02-27T13:32:36 new connection ('127.0.0.1', 53343): <ManagedServerConnection ('127.0.0.1', 53343)>
+2013-02-27T13:32:36 (127.0.0.1:53343) received handshake 'Z3101'
+2013-02-27T13:32:36 (unconnected) disconnected
+2013-02-27T13:33:31 (127.0.0.1:53343) disconnected
+2013-02-27T13:33:41 new connection ('127.0.0.1', 53363): <ManagedServerConnection ('127.0.0.1', 53363)>
+2013-02-27T13:33:41 new connection ('127.0.0.1', 53364): <ManagedServerConnection ('127.0.0.1', 53364)>
+2013-02-27T13:33:41 (127.0.0.1:53364) received handshake 'Z3101'
+2013-02-27T13:33:41 (unconnected) disconnected
+2013-02-27T13:34:36 (127.0.0.1:53364) disconnected
+2013-02-27T13:34:45 new connection ('127.0.0.1', 53379): <ManagedServerConnection ('127.0.0.1', 53379)>
+2013-02-27T13:34:45 new connection ('127.0.0.1', 53380): <ManagedServerConnection ('127.0.0.1', 53380)>
+2013-02-27T13:34:45 (127.0.0.1:53379) received handshake 'Z3101'
+2013-02-27T13:34:45 (unconnected) disconnected
+2013-02-27T13:37:06 (127.0.0.1:53379) disconnected
+2013-02-27T13:37:13 new connection ('127.0.0.1', 53405): <ManagedServerConnection ('127.0.0.1', 53405)>
+2013-02-27T13:37:13 new connection ('127.0.0.1', 53406): <ManagedServerConnection ('127.0.0.1', 53406)>
+2013-02-27T13:37:13 (127.0.0.1:53406) received handshake 'Z3101'
+2013-02-27T13:37:13 (unconnected) disconnected
+2013-02-27T13:43:43 (127.0.0.1:53406) disconnected
+2013-02-27T13:45:39 new connection ('127.0.0.1', 53454): <ManagedServerConnection ('127.0.0.1', 53454)>
+2013-02-27T13:45:39 new connection ('127.0.0.1', 53455): <ManagedServerConnection ('127.0.0.1', 53455)>
+2013-02-27T13:45:39 (127.0.0.1:53454) received handshake 'Z3101'
+2013-02-27T13:45:39 (unconnected) disconnected
+2013-02-27T13:46:30 (127.0.0.1:53454) disconnected
+2013-02-27T13:47:44 new connection ('127.0.0.1', 53468): <ManagedServerConnection ('127.0.0.1', 53468)>
+2013-02-27T13:47:44 new connection ('127.0.0.1', 53469): <ManagedServerConnection ('127.0.0.1', 53469)>
+2013-02-27T13:47:44 (127.0.0.1:53468) received handshake 'Z3101'
+2013-02-27T13:47:45 (unconnected) disconnected
+2013-02-27T13:48:20 (127.0.0.1:53468) disconnected
+2013-02-27T13:48:25 new connection ('127.0.0.1', 53483): <ManagedServerConnection ('127.0.0.1', 53483)>
+2013-02-27T13:48:25 (127.0.0.1:53483) received handshake 'Z3101'
+2013-02-27T13:48:25 new connection ('127.0.0.1', 53484): <ManagedServerConnection ('127.0.0.1', 53484)>
+2013-02-27T13:48:25 (unconnected) disconnected
+2013-02-27T13:50:31 (127.0.0.1:53483) disconnected
+2013-02-27T13:50:35 new connection ('127.0.0.1', 53509): <ManagedServerConnection ('127.0.0.1', 53509)>
+2013-02-27T13:50:35 (127.0.0.1:53509) received handshake 'Z3101'
+2013-02-27T13:50:35 new connection ('127.0.0.1', 53510): <ManagedServerConnection ('127.0.0.1', 53510)>
+2013-02-27T13:50:36 (unconnected) disconnected
+2013-02-27T13:51:13 (127.0.0.1:53509) disconnected
+2013-02-27T13:51:37 new connection ('127.0.0.1', 53525): <ManagedServerConnection ('127.0.0.1', 53525)>
+2013-02-27T13:51:37 (127.0.0.1:53525) received handshake 'Z3101'
+2013-02-27T13:51:37 new connection ('127.0.0.1', 53526): <ManagedServerConnection ('127.0.0.1', 53526)>
+2013-02-27T13:51:37 (unconnected) disconnected
+2013-02-27T13:51:44 (127.0.0.1:53525) disconnected
+2013-02-27T13:51:47 new connection ('127.0.0.1', 53531): <ManagedServerConnection ('127.0.0.1', 53531)>
+2013-02-27T13:51:47 (127.0.0.1:53531) received handshake 'Z3101'
+2013-02-27T13:51:47 new connection ('127.0.0.1', 53532): <ManagedServerConnection ('127.0.0.1', 53532)>
+2013-02-27T13:51:47 (unconnected) disconnected
+2013-02-27T13:54:08 new connection ('127.0.0.1', 53549): <ManagedServerConnection ('127.0.0.1', 53549)>
+2013-02-27T13:54:08 new connection ('127.0.0.1', 53550): <ManagedServerConnection ('127.0.0.1', 53550)>
+2013-02-27T13:54:08 (127.0.0.1:53550) received handshake 'Z3101'
+2013-02-27T13:54:08 (unconnected) disconnected
+2013-02-27T14:00:55 (127.0.0.1:53531) disconnected
+2013-02-27T14:01:24 new connection ('127.0.0.1', 53588): <ManagedServerConnection ('127.0.0.1', 53588)>
+2013-02-27T14:01:24 new connection ('127.0.0.1', 53589): <ManagedServerConnection ('127.0.0.1', 53589)>
+2013-02-27T14:01:24 (127.0.0.1:53588) received handshake 'Z3101'
+2013-02-27T14:01:24 (unconnected) disconnected
+2013-02-27T14:03:08 (127.0.0.1:53588) disconnected
+2013-02-27T14:03:10 new connection ('127.0.0.1', 53602): <ManagedServerConnection ('127.0.0.1', 53602)>
+2013-02-27T14:03:10 (127.0.0.1:53602) received handshake 'Z3101'
+2013-02-27T14:03:10 new connection ('127.0.0.1', 53603): <ManagedServerConnection ('127.0.0.1', 53603)>
+2013-02-27T14:03:10 (unconnected) disconnected
+2013-02-27T14:03:33 (127.0.0.1:53550) disconnected
+2013-02-27T14:04:24 new connection ('127.0.0.1', 53614): <ManagedServerConnection ('127.0.0.1', 53614)>
+2013-02-27T14:04:24 (127.0.0.1:53614) received handshake 'Z3101'
+2013-02-27T14:04:24 new connection ('127.0.0.1', 53615): <ManagedServerConnection ('127.0.0.1', 53615)>
+2013-02-27T14:04:24 (unconnected) disconnected
+2013-02-27T14:05:18 (127.0.0.1:53602) disconnected
+2013-02-27T14:05:26 new connection ('127.0.0.1', 53628): <ManagedServerConnection ('127.0.0.1', 53628)>
+2013-02-27T14:05:26 new connection ('127.0.0.1', 53629): <ManagedServerConnection ('127.0.0.1', 53629)>
+2013-02-27T14:05:26 (127.0.0.1:53628) received handshake 'Z3101'
+2013-02-27T14:05:26 (unconnected) disconnected
+2013-02-27T14:07:58 (127.0.0.1:53628) disconnected
+2013-02-27T14:08:05 new connection ('127.0.0.1', 53642): <ManagedServerConnection ('127.0.0.1', 53642)>
+2013-02-27T14:08:05 new connection ('127.0.0.1', 53643): <ManagedServerConnection ('127.0.0.1', 53643)>
+2013-02-27T14:08:05 (127.0.0.1:53642) received handshake 'Z3101'
+2013-02-27T14:08:05 (unconnected) disconnected
+2013-02-27T14:10:52 (127.0.0.1:53642) disconnected
+2013-02-27T14:11:35 new connection ('127.0.0.1', 53727): <ManagedServerConnection ('127.0.0.1', 53727)>
+2013-02-27T14:11:35 new connection ('127.0.0.1', 53728): <ManagedServerConnection ('127.0.0.1', 53728)>
+2013-02-27T14:11:35 (127.0.0.1:53727) received handshake 'Z3101'
+2013-02-27T14:11:35 (unconnected) disconnected
+2013-02-27T14:11:44 (127.0.0.1:53727) disconnected
+2013-02-27T14:11:48 new connection ('127.0.0.1', 53731): <ManagedServerConnection ('127.0.0.1', 53731)>
+2013-02-27T14:11:48 new connection ('127.0.0.1', 53732): <ManagedServerConnection ('127.0.0.1', 53732)>
+2013-02-27T14:11:48 (127.0.0.1:53731) received handshake 'Z3101'
+2013-02-27T14:11:48 (unconnected) disconnected
+2013-02-27T14:12:30 (127.0.0.1:53731) disconnected
+2013-02-27T14:23:53 new connection ('127.0.0.1', 54166): <ManagedServerConnection ('127.0.0.1', 54166)>
+2013-02-27T14:23:53 (127.0.0.1:54166) received handshake 'Z3101'
+2013-02-27T14:23:53 new connection ('127.0.0.1', 54167): <ManagedServerConnection ('127.0.0.1', 54167)>
+2013-02-27T14:23:53 (unconnected) disconnected
+2013-02-27T14:24:31 (127.0.0.1:54166) disconnected
+2013-02-27T14:25:11 new connection ('127.0.0.1', 54175): <ManagedServerConnection ('127.0.0.1', 54175)>
+2013-02-27T14:25:11 new connection ('127.0.0.1', 54176): <ManagedServerConnection ('127.0.0.1', 54176)>
+2013-02-27T14:25:11 (127.0.0.1:54176) received handshake 'Z3101'
+2013-02-27T14:25:11 (unconnected) disconnected
+2013-02-27T14:25:40 (127.0.0.1:54176) disconnected
+2013-02-27T14:25:43 new connection ('127.0.0.1', 54191): <ManagedServerConnection ('127.0.0.1', 54191)>
+2013-02-27T14:25:43 new connection ('127.0.0.1', 54192): <ManagedServerConnection ('127.0.0.1', 54192)>
+2013-02-27T14:25:43 (127.0.0.1:54192) received handshake 'Z3101'
+2013-02-27T14:25:43 (unconnected) disconnected
+2013-02-27T14:27:12 (127.0.0.1:54192) disconnected
+2013-02-27T14:27:17 new connection ('127.0.0.1', 54210): <ManagedServerConnection ('127.0.0.1', 54210)>
+2013-02-27T14:27:17 new connection ('127.0.0.1', 54211): <ManagedServerConnection ('127.0.0.1', 54211)>
+2013-02-27T14:27:17 (127.0.0.1:54211) received handshake 'Z3101'
+2013-02-27T14:27:18 (unconnected) disconnected
+2013-02-27T14:27:51 (127.0.0.1:54211) disconnected
+2013-02-27T14:29:52 new connection ('127.0.0.1', 54241): <ManagedServerConnection ('127.0.0.1', 54241)>
+2013-02-27T14:29:52 new connection ('127.0.0.1', 54242): <ManagedServerConnection ('127.0.0.1', 54242)>
+2013-02-27T14:29:52 (127.0.0.1:54241) received handshake 'Z3101'
+2013-02-27T14:29:52 (unconnected) disconnected
+2013-02-27T14:30:12 (127.0.0.1:54241) disconnected
+2013-02-27T14:30:18 new connection ('127.0.0.1', 54250): <ManagedServerConnection ('127.0.0.1', 54250)>
+2013-02-27T14:30:18 new connection ('127.0.0.1', 54251): <ManagedServerConnection ('127.0.0.1', 54251)>
+2013-02-27T14:30:18 (127.0.0.1:54250) received handshake 'Z3101'
+2013-02-27T14:30:18 (unconnected) disconnected
+2013-02-27T14:30:49 (127.0.0.1:54250) disconnected
+2013-02-27T14:30:53 new connection ('127.0.0.1', 54266): <ManagedServerConnection ('127.0.0.1', 54266)>
+2013-02-27T14:30:53 new connection ('127.0.0.1', 54267): <ManagedServerConnection ('127.0.0.1', 54267)>
+2013-02-27T14:30:53 (127.0.0.1:54267) received handshake 'Z3101'
+2013-02-27T14:30:53 (unconnected) disconnected
+2013-02-27T14:31:01 (127.0.0.1:54267) disconnected
+2013-02-27T14:31:06 new connection ('127.0.0.1', 54276): <ManagedServerConnection ('127.0.0.1', 54276)>
+2013-02-27T14:31:06 new connection ('127.0.0.1', 54277): <ManagedServerConnection ('127.0.0.1', 54277)>
+2013-02-27T14:31:06 (127.0.0.1:54276) received handshake 'Z3101'
+2013-02-27T14:31:06 (unconnected) disconnected
+2013-02-27T14:33:14 (127.0.0.1:54276) disconnected
+2013-02-27T14:33:18 new connection ('127.0.0.1', 54282): <ManagedServerConnection ('127.0.0.1', 54282)>
+2013-02-27T14:33:18 new connection ('127.0.0.1', 54283): <ManagedServerConnection ('127.0.0.1', 54283)>
+2013-02-27T14:33:18 (127.0.0.1:54282) received handshake 'Z3101'
+2013-02-27T14:33:18 (unconnected) disconnected
+2013-02-27T14:35:56 (127.0.0.1:54282) disconnected
+2013-02-27T14:35:59 new connection ('127.0.0.1', 54321): <ManagedServerConnection ('127.0.0.1', 54321)>
+2013-02-27T14:35:59 new connection ('127.0.0.1', 54322): <ManagedServerConnection ('127.0.0.1', 54322)>
+2013-02-27T14:35:59 (127.0.0.1:54322) received handshake 'Z3101'
+2013-02-27T14:36:00 (unconnected) disconnected
+2013-02-27T14:38:06 (127.0.0.1:54322) disconnected
+2013-02-27T14:38:12 new connection ('127.0.0.1', 54343): <ManagedServerConnection ('127.0.0.1', 54343)>
+2013-02-27T14:38:12 new connection ('127.0.0.1', 54344): <ManagedServerConnection ('127.0.0.1', 54344)>
+2013-02-27T14:38:12 (127.0.0.1:54344) received handshake 'Z3101'
+2013-02-27T14:38:12 (unconnected) disconnected
+2013-02-27T14:38:52 (127.0.0.1:54344) disconnected
+2013-02-27T14:38:58 new connection ('127.0.0.1', 54347): <ManagedServerConnection ('127.0.0.1', 54347)>
+2013-02-27T14:38:58 (127.0.0.1:54347) received handshake 'Z3101'
+2013-02-27T14:38:58 new connection ('127.0.0.1', 54348): <ManagedServerConnection ('127.0.0.1', 54348)>
+2013-02-27T14:38:58 (unconnected) disconnected
+2013-02-27T14:44:52 (127.0.0.1:54347) disconnected
+2013-02-27T14:44:55 new connection ('127.0.0.1', 54457): <ManagedServerConnection ('127.0.0.1', 54457)>
+2013-02-27T14:44:55 new connection ('127.0.0.1', 54458): <ManagedServerConnection ('127.0.0.1', 54458)>
+2013-02-27T14:44:55 (127.0.0.1:54458) received handshake 'Z3101'
+2013-02-27T14:44:55 (unconnected) disconnected
+2013-02-27T14:45:51 (127.0.0.1:54458) disconnected
+2013-02-27T14:46:12 new connection ('127.0.0.1', 54470): <ManagedServerConnection ('127.0.0.1', 54470)>
+2013-02-27T14:46:12 (127.0.0.1:54470) received handshake 'Z3101'
+2013-02-27T14:46:12 new connection ('127.0.0.1', 54471): <ManagedServerConnection ('127.0.0.1', 54471)>
+2013-02-27T14:46:12 (unconnected) disconnected
+2013-02-27T14:46:57 (127.0.0.1:54470) disconnected
+2013-02-27T14:47:45 new connection ('127.0.0.1', 54479): <ManagedServerConnection ('127.0.0.1', 54479)>
+2013-02-27T14:47:45 new connection ('127.0.0.1', 54480): <ManagedServerConnection ('127.0.0.1', 54480)>
+2013-02-27T14:47:45 (127.0.0.1:54480) received handshake 'Z3101'
+2013-02-27T14:47:46 (unconnected) disconnected
+2013-02-27T15:01:55 (127.0.0.1:54480) disconnected
+2013-02-27T15:01:59 new connection ('127.0.0.1', 54540): <ManagedServerConnection ('127.0.0.1', 54540)>
+2013-02-27T15:01:59 new connection ('127.0.0.1', 54541): <ManagedServerConnection ('127.0.0.1', 54541)>
+2013-02-27T15:01:59 (127.0.0.1:54541) received handshake 'Z3101'
+2013-02-27T15:01:59 (unconnected) disconnected
+2013-02-27T15:05:22 (127.0.0.1:54541) disconnected
+2013-02-27T15:05:27 new connection ('127.0.0.1', 54557): <ManagedServerConnection ('127.0.0.1', 54557)>
+2013-02-27T15:05:27 new connection ('127.0.0.1', 54558): <ManagedServerConnection ('127.0.0.1', 54558)>
+2013-02-27T15:05:27 (127.0.0.1:54558) received handshake 'Z3101'
+2013-02-27T15:05:27 (unconnected) disconnected
+2013-02-27T15:05:37 (127.0.0.1:54558) disconnected
+2013-02-27T15:05:40 new connection ('127.0.0.1', 54561): <ManagedServerConnection ('127.0.0.1', 54561)>
+2013-02-27T15:05:40 new connection ('127.0.0.1', 54562): <ManagedServerConnection ('127.0.0.1', 54562)>
+2013-02-27T15:05:40 (127.0.0.1:54562) received handshake 'Z3101'
+2013-02-27T15:05:40 (unconnected) disconnected
+2013-02-27T15:07:29 (127.0.0.1:54562) disconnected
+2013-02-27T15:07:31 new connection ('127.0.0.1', 54578): <ManagedServerConnection ('127.0.0.1', 54578)>
+2013-02-27T15:07:31 new connection ('127.0.0.1', 54579): <ManagedServerConnection ('127.0.0.1', 54579)>
+2013-02-27T15:07:31 (127.0.0.1:54579) received handshake 'Z3101'
+2013-02-27T15:07:31 (unconnected) disconnected
+2013-02-27T15:08:17 (127.0.0.1:53614) disconnected
+2013-02-27T15:08:23 (127.0.0.1:54579) disconnected
+2013-02-27T15:08:33 new connection ('127.0.0.1', 54586): <ManagedServerConnection ('127.0.0.1', 54586)>
+2013-02-27T15:08:33 new connection ('127.0.0.1', 54587): <ManagedServerConnection ('127.0.0.1', 54587)>
+2013-02-27T15:08:33 (127.0.0.1:54587) received handshake 'Z3101'
+2013-02-27T15:08:33 (unconnected) disconnected
+2013-02-27T15:17:27 (127.0.0.1:54587) disconnected
+2013-02-27T15:18:15 new connection ('127.0.0.1', 54611): <ManagedServerConnection ('127.0.0.1', 54611)>
+2013-02-27T15:18:15 new connection ('127.0.0.1', 54612): <ManagedServerConnection ('127.0.0.1', 54612)>
+2013-02-27T15:18:15 (127.0.0.1:54612) received handshake 'Z3101'
+2013-02-27T15:18:15 (unconnected) disconnected
+2013-02-27T15:18:54 (127.0.0.1:54612) disconnected
+2013-02-27T15:18:56 new connection ('127.0.0.1', 54629): <ManagedServerConnection ('127.0.0.1', 54629)>
+2013-02-27T15:18:56 (127.0.0.1:54629) received handshake 'Z3101'
+2013-02-27T15:18:56 new connection ('127.0.0.1', 54630): <ManagedServerConnection ('127.0.0.1', 54630)>
+2013-02-27T15:18:56 (unconnected) disconnected
+2013-02-27T15:19:27 (127.0.0.1:54629) disconnected
+2013-02-27T15:19:30 new connection ('127.0.0.1', 54635): <ManagedServerConnection ('127.0.0.1', 54635)>
+2013-02-27T15:19:30 new connection ('127.0.0.1', 54636): <ManagedServerConnection ('127.0.0.1', 54636)>
+2013-02-27T15:19:30 (127.0.0.1:54635) received handshake 'Z3101'
+2013-02-27T15:19:30 (unconnected) disconnected
+2013-02-27T15:20:16 (127.0.0.1:54635) disconnected
+2013-02-27T15:20:22 new connection ('127.0.0.1', 54652): <ManagedServerConnection ('127.0.0.1', 54652)>
+2013-02-27T15:20:22 new connection ('127.0.0.1', 54653): <ManagedServerConnection ('127.0.0.1', 54653)>
+2013-02-27T15:20:22 (127.0.0.1:54652) received handshake 'Z3101'
+2013-02-27T15:20:22 (unconnected) disconnected
+2013-02-27T21:08:21 (127.0.0.1:54652) disconnected
+2013-02-27T21:08:25 new connection ('127.0.0.1', 55546): <ManagedServerConnection ('127.0.0.1', 55546)>
+2013-02-27T21:08:25 new connection ('127.0.0.1', 55547): <ManagedServerConnection ('127.0.0.1', 55547)>
+2013-02-27T21:08:25 (127.0.0.1:55547) received handshake 'Z3101'
+2013-02-27T21:08:25 (unconnected) disconnected
+2013-02-27T21:09:02 (127.0.0.1:55547) disconnected
+2013-02-27T21:09:06 new connection ('127.0.0.1', 55554): <ManagedServerConnection ('127.0.0.1', 55554)>
+2013-02-27T21:09:06 new connection ('127.0.0.1', 55555): <ManagedServerConnection ('127.0.0.1', 55555)>
+2013-02-27T21:09:06 (127.0.0.1:55555) received handshake 'Z3101'
+2013-02-27T21:09:06 (unconnected) disconnected
+2013-02-27T21:11:43 (127.0.0.1:55555) disconnected
+2013-02-27T21:11:51 new connection ('127.0.0.1', 55570): <ManagedServerConnection ('127.0.0.1', 55570)>
+2013-02-27T21:11:51 new connection ('127.0.0.1', 55571): <ManagedServerConnection ('127.0.0.1', 55571)>
+2013-02-27T21:11:51 (127.0.0.1:55571) received handshake 'Z3101'
+2013-02-27T21:11:51 (unconnected) disconnected
+2013-02-27T21:13:17 (127.0.0.1:55571) disconnected
+2013-02-27T21:21:30 new connection ('127.0.0.1', 55601): <ManagedServerConnection ('127.0.0.1', 55601)>
+2013-02-27T21:21:30 (127.0.0.1:55601) received handshake 'Z3101'
+2013-02-27T21:21:30 new connection ('127.0.0.1', 55602): <ManagedServerConnection ('127.0.0.1', 55602)>
+2013-02-27T21:21:30 (unconnected) disconnected
+2013-02-27T21:22:15 (127.0.0.1:55601) disconnected
+2013-02-27T21:22:19 new connection ('127.0.0.1', 55609): <ManagedServerConnection ('127.0.0.1', 55609)>
+2013-02-27T21:22:19 new connection ('127.0.0.1', 55610): <ManagedServerConnection ('127.0.0.1', 55610)>
+2013-02-27T21:22:19 (127.0.0.1:55609) received handshake 'Z3101'
+2013-02-27T21:22:19 (unconnected) disconnected
+2013-02-27T21:25:22 (127.0.0.1:55609) disconnected
+2013-02-27T21:25:53 new connection ('127.0.0.1', 55634): <ManagedServerConnection ('127.0.0.1', 55634)>
+2013-02-27T21:25:53 (127.0.0.1:55634) received handshake 'Z3101'
+2013-02-27T21:25:53 new connection ('127.0.0.1', 55635): <ManagedServerConnection ('127.0.0.1', 55635)>
+2013-02-27T21:25:53 (unconnected) disconnected
+2013-02-27T21:26:51 (127.0.0.1:55634) disconnected
+2013-02-27T21:26:54 new connection ('127.0.0.1', 55647): <ManagedServerConnection ('127.0.0.1', 55647)>
+2013-02-27T21:26:54 new connection ('127.0.0.1', 55648): <ManagedServerConnection ('127.0.0.1', 55648)>
+2013-02-27T21:26:54 (127.0.0.1:55648) received handshake 'Z3101'
+2013-02-27T21:26:55 (unconnected) disconnected
+2013-02-27T21:27:38 (127.0.0.1:55648) disconnected
+2013-02-27T21:40:24 new connection ('127.0.0.1', 55696): <ManagedServerConnection ('127.0.0.1', 55696)>
+2013-02-27T21:40:24 new connection ('127.0.0.1', 55697): <ManagedServerConnection ('127.0.0.1', 55697)>
+2013-02-27T21:40:24 (127.0.0.1:55697) received handshake 'Z3101'
+2013-02-27T21:40:24 (unconnected) disconnected
+2013-02-27T21:42:46 new connection ('127.0.0.1', 55723): <ManagedServerConnection ('127.0.0.1', 55723)>
+2013-02-27T21:42:46 new connection ('127.0.0.1', 55724): <ManagedServerConnection ('127.0.0.1', 55724)>
+2013-02-27T21:42:46 (127.0.0.1:55724) received handshake 'Z3101'
+2013-02-27T21:42:46 (unconnected) disconnected
+2013-02-27T21:45:32 (127.0.0.1:55697) disconnected
+2013-02-27T21:46:19 new connection ('127.0.0.1', 55745): <ManagedServerConnection ('127.0.0.1', 55745)>
+2013-02-27T21:46:19 new connection ('127.0.0.1', 55746): <ManagedServerConnection ('127.0.0.1', 55746)>
+2013-02-27T21:46:19 (127.0.0.1:55746) received handshake 'Z3101'
+2013-02-27T21:46:19 (unconnected) disconnected
+2013-02-27T21:47:49 (127.0.0.1:55746) disconnected
+2013-02-27T21:47:49 new connection ('127.0.0.1', 55757): <ManagedServerConnection ('127.0.0.1', 55757)>
+2013-02-27T21:47:49 new connection ('127.0.0.1', 55758): <ManagedServerConnection ('127.0.0.1', 55758)>
+2013-02-27T21:47:49 (127.0.0.1:55757) received handshake 'Z3101'
+2013-02-27T21:47:50 (unconnected) disconnected
+2013-02-27T21:50:46 (127.0.0.1:55757) disconnected
+2013-02-27T21:50:46 new connection ('127.0.0.1', 55770): <ManagedServerConnection ('127.0.0.1', 55770)>
+2013-02-27T21:50:46 new connection ('127.0.0.1', 55771): <ManagedServerConnection ('127.0.0.1', 55771)>
+2013-02-27T21:50:46 (127.0.0.1:55770) received handshake 'Z3101'
+2013-02-27T21:50:46 (unconnected) disconnected
+2013-02-27T21:57:32 (127.0.0.1:55724) disconnected
+2013-02-27T21:57:36 new connection ('127.0.0.1', 55830): <ManagedServerConnection ('127.0.0.1', 55830)>
+2013-02-27T21:57:36 new connection ('127.0.0.1', 55831): <ManagedServerConnection ('127.0.0.1', 55831)>
+2013-02-27T21:57:36 (127.0.0.1:55831) received handshake 'Z3101'
+2013-02-27T21:57:36 (unconnected) disconnected
+2013-02-27T22:04:34 (127.0.0.1:55831) disconnected
+2013-02-27T22:05:03 new connection ('127.0.0.1', 55955): <ManagedServerConnection ('127.0.0.1', 55955)>
+2013-02-27T22:05:03 new connection ('127.0.0.1', 55956): <ManagedServerConnection ('127.0.0.1', 55956)>
+2013-02-27T22:05:03 (127.0.0.1:55955) received handshake 'Z3101'
+2013-02-27T22:05:03 (unconnected) disconnected
+2013-02-27T22:06:08 (127.0.0.1:55770) disconnected
+2013-02-27T22:06:09 new connection ('127.0.0.1', 55962): <ManagedServerConnection ('127.0.0.1', 55962)>
+2013-02-27T22:06:09 new connection ('127.0.0.1', 55963): <ManagedServerConnection ('127.0.0.1', 55963)>
+2013-02-27T22:06:09 (127.0.0.1:55962) received handshake 'Z3101'
+2013-02-27T22:06:09 (unconnected) disconnected
+2013-02-27T22:07:30 (127.0.0.1:55962) disconnected
+2013-02-27T22:07:35 new connection ('127.0.0.1', 55980): <ManagedServerConnection ('127.0.0.1', 55980)>
+2013-02-27T22:07:35 new connection ('127.0.0.1', 55981): <ManagedServerConnection ('127.0.0.1', 55981)>
+2013-02-27T22:07:35 (127.0.0.1:55980) received handshake 'Z3101'
+2013-02-27T22:07:35 (unconnected) disconnected
+2013-02-27T22:13:22 (127.0.0.1:55980) disconnected
+2013-02-27T22:13:22 new connection ('127.0.0.1', 56041): <ManagedServerConnection ('127.0.0.1', 56041)>
+2013-02-27T22:13:22 (127.0.0.1:56041) received handshake 'Z3101'
+2013-02-27T22:13:22 new connection ('127.0.0.1', 56042): <ManagedServerConnection ('127.0.0.1', 56042)>
+2013-02-27T22:13:22 (unconnected) disconnected
+2013-02-27T22:14:05 (127.0.0.1:56041) disconnected
+2013-02-27T22:14:05 new connection ('127.0.0.1', 56047): <ManagedServerConnection ('127.0.0.1', 56047)>
+2013-02-27T22:14:05 new connection ('127.0.0.1', 56048): <ManagedServerConnection ('127.0.0.1', 56048)>
+2013-02-27T22:14:05 (127.0.0.1:56047) received handshake 'Z3101'
+2013-02-27T22:14:05 (unconnected) disconnected
+2013-02-27T22:14:42 (127.0.0.1:56047) disconnected
+2013-02-27T22:14:42 new connection ('127.0.0.1', 56057): <ManagedServerConnection ('127.0.0.1', 56057)>
+2013-02-27T22:14:42 new connection ('127.0.0.1', 56058): <ManagedServerConnection ('127.0.0.1', 56058)>
+2013-02-27T22:14:42 (127.0.0.1:56057) received handshake 'Z3101'
+2013-02-27T22:14:42 (unconnected) disconnected
+2013-02-27T22:25:17 (127.0.0.1:56057) disconnected
+2013-02-27T22:25:18 new connection ('127.0.0.1', 56378): <ManagedServerConnection ('127.0.0.1', 56378)>
+2013-02-27T22:25:18 new connection ('127.0.0.1', 56379): <ManagedServerConnection ('127.0.0.1', 56379)>
+2013-02-27T22:25:18 (127.0.0.1:56378) received handshake 'Z3101'
+2013-02-27T22:25:18 (unconnected) disconnected
+2013-02-27T22:25:24 (127.0.0.1:56378) disconnected
+2013-02-27T22:25:26 (127.0.0.1:55955) disconnected

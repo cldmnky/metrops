@@ -3,7 +3,7 @@
 import os, sys
 from optparse import OptionParser
 
-libdir="../lib/metrops_proxy"
+libdir="../lib/metrops_agent"
 
 
 if not os.path.isabs(libdir):
@@ -12,7 +12,7 @@ if not os.path.isabs(libdir):
 sys.path.insert(0, libdir)
 
 try:
-    import run_metropsrv
+    import agent
 except ImportError,e:
     sys.stderr.write("Error: couldn't find metrops libraries in: %s\n" % ' '.join(sys.path))
     print e
@@ -24,5 +24,5 @@ parser.add_option("-c", "--config", dest="configfile",
 if not options.configfile:
     print "Missing argument: -c [configfile]"
     sys.exit(1)
-run_metropsrv.run(options.configfile)
+agent.run(options.configfile)
 

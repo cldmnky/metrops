@@ -16,7 +16,16 @@ TYPE_ENCR_AES256     = 0x0210
 header = struct.Struct("!2H")
 username_len = struct.Struct("!H")
 
+addr = 'localhost', 8090
+storage = ClientStorage.ClientStorage(addr)
+db = DB(storage)
+conn = db.open()
+root = conn.root()
+root['_v_stats'] = {}
+transaction.commit()
+
 def get_collectd_dest(user):
+    conn.sync()
     if root['users'].has_key(user):
         return root['users'][user]['dest']
     else:
@@ -46,24 +55,13 @@ def proxy(msg, address):
 
 
 def run(configfile):
-    addr = 'localhost', 8090
-    storage = ClientStorage.ClientStorage(addr)
-    db = DB(storage)
-    conn = db.open()
-    root = conn.root()
-    root['users'] = {
-            'firstuser':{
-                'dest':('localhost',12345), 
-                'password':'my_super_secret_password'
-            }, 
-            'anotheruser':{
-                'dest': ('localhost', 54321), 
-                'password': 'another_super_secret_password'
-            }
-    }
-    #root['aggregations'] = {'firstuser'}
-    transaction.commit()
-    # to make the server use SSL, pass certfile and keyfile arguments to the constructor
+    #addr = 'localhost', 8090
+    #storage = ClientStorage.ClientStorage(addr)
+    #db = DB(storage)
+    #conn = db.open()
+    #root = conn.root()
+    #root['_v_stats'] = {}
+    #transaction.commit()
     udp_sock = gevent.socket.socket(gevent.socket.AF_INET, gevent.socket.SOCK_DGRAM)
     udp_sock.setsockopt(gevent.socket.SOL_SOCKET, gevent.socket.SO_BROADCAST, 1)
     udp_sock.bind(('', 6000))
