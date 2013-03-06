@@ -21,13 +21,11 @@ storage = ClientStorage.ClientStorage(addr)
 db = DB(storage)
 conn = db.open()
 root = conn.root()
-root['_v_stats'] = {}
-transaction.commit()
 
-def get_collectd_dest(user):
+def get_collectd_dest(instance):
     conn.sync()
-    if root['users'].has_key(user):
-        return root['users'][user]['dest']
+    if root['instances'].has_key(instance):
+        return root['instances'][instance]['dest']
     else:
         return False
 
@@ -47,9 +45,9 @@ def proxy(msg, address):
             sock = socket.socket(type=socket.SOCK_DGRAM)
             sock.connect(dest_address)
             sock.send(msg)
-            logger.debug("Proxied collectd messge from %s to %s"  % (u[0], dest_address))
+            logger.debug("Proxied collectd metric from %s to %s"  % (u[0], dest_address))
         else:
-            logger.debug("Dropping collectd message due to unkown user")
+            logger.debug("Dropping collectd metric due to unknown instance")
     else:
         logger.debug("Dropping collectd message due to unkown type")
 

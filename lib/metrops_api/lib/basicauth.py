@@ -1,5 +1,14 @@
+import os, hashlib
 from functools import wraps
+from base64 import urlsafe_b64encode as encode
+from base64 import urlsafe_b64decode as decode
 from flask import request, Response, current_app
+
+def make_salted_pass(password):
+    salt = os.urandom(4)
+    h = hashlib.sha1(password)
+    h.update(salt)
+    return "{SSHA}" + encode(h.digest() + salt)
 
 def check_auth(username, password):
     """This function is called to check if a username /

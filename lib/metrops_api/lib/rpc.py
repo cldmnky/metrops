@@ -9,9 +9,9 @@ def rpc_client():
     client.connect("tcp://localhost:10042")
     return client
 
-def create_instance(uid):
+def create_instance(uid, password):
     client = rpc_client()
-    instance = client.create_instance(uid.get_hex())
+    instance = client.create_instance(uid.get_hex(), password)
     return instance
 
 def delete_instance(instance):
